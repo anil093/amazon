@@ -1,0 +1,11 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "kind of amazon website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "anil",
+  "license": "MIT"
+}
