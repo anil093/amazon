@@ -20,35 +20,35 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 It will also update the product sales in the department table.
 BamazonManager.js
 
-Starts with a menu:
+<h3>Starts with a menu:</h3>
 
-View Products for Sale
-View Low Inventory
-Add to Inventory
-Add New Product
-Exit
-If the manager selects View Products for Sale, it lists all of the products in the store including all of their details.
+<li>View Products for Sale</li>
+<li>View Low Inventory</li>
+<li>Add to Inventory</li>
+<li>Add New Product</li>
+<li>Exit
+<li>If the manager selects View Products for Sale, it lists all of the products in the store including all of their details.</li>
 
-If the manager selects View Low Inventory, it'll list all the products with less than five items in its StockQuantity column.
+<li>If the manager selects View Low Inventory, it'll list all the products with less than five items in its StockQuantity column.</li>
 
-If the manager selects Add to Inventory, it allows the manager to select a product and add inventory.
+<li>If the manager selects Add to Inventory, it allows the manager to select a product and add inventory.</li>
 
-If the manager selects Add New Product, it allows the manager to add a new product to the store.
+<li>If the manager selects Add New Product, it allows the manager to add a new product to the store.</li>
 
-If the manager selects Exit, it ends the session and doesn't go back to the menu.
+<li>If the manager selects Exit, it ends the session and doesn't go back to the menu.</li>
 
-BamazonSupervisor.js
+<li>BamazonSupervisor.js</li>
 
-Starts with a menu:
+<li>Starts with a menu:</li>
 
-View Product Sales by Department
-Create New Department
-Exit
-If the manager selects View Product Sales by Department, it lists the Department Sales and calculates the total sales from the overhead cost and product sales.
+<li>View Product Sales by Department</li>
+<li>Create New Department</li>
+<li>Exit</li>
+<li>If the manager selects View Product Sales by Department, it lists the Department Sales and calculates the total sales from the overhead cost and product sales.
 
-If the manager selects Create New Department, it allows the manager to create a new department and input current overhead costs and product sales. If there are none, by default it will set at 0.
+<li>If the manager selects Create New Department, it allows the manager to create a new department and input current overhead costs and product sales. If there are none, by default it will set at 0.</li>
 
-If the manager selects Exit, it ends the session and doesn't go back to the menu.</ul>
+I<li>f the manager selects Exit, it ends the session and doesn't go back to the menu.</ul>
 
 <h1>Technologies used</h1>
 <li>Node.js</li>
