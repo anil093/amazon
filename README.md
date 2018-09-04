@@ -50,7 +50,7 @@ If the manager selects Create New Department, it allows the manager to create a 
 
 If the manager selects Exit, it ends the session and doesn't go back to the menu.</ul>
 
-<h1>Technologies used<h1>
+<h1>Technologies used</h1>
 <li>Node.js</li>
 <li>Inquire NPM Package (https://www.npmjs.com/package/inquirer)</li>
 <li>MYSQL NPM Package (https://www.npmjs.com/package/mysql)</li>
