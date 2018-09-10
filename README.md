@@ -49,6 +49,13 @@ BamazonManager.js
 <li>If the manager selects Create New Department, it allows the manager to create a new department and input current overhead costs and product sales. If there are none, by default it will set at 0.</li>
 
 I<li>f the manager selects Exit, it ends the session and doesn't go back to the menu.</ul>
+![alt text](https://github.com/anil093/amazon/blob/master/images/customer1.png?raw=true "Logo Title Text 1")
+
+![alt text](https://github.com/anil093/amazon/blob/master/images/customer1.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/anil093/amazon/blob/master/images/customer2.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/anil093/amazon/blob/master/images/customer3.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/anil093/amazon/blob/master/images/manager1.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/anil093/amazon/blob/master/images/manager2.png?raw=true "Logo Title Text 1")
 
 <h1>Technologies used</h1>
 <li>Node.js</li>
